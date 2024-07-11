@@ -1,4 +1,4 @@
-<h1>Hello everyone, I'm Bert! <br/><a>Cybersecurity Student </a>
+<h1>Hello everyone, I'm Albert! <br/><a>Cybersecurity Student </a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
